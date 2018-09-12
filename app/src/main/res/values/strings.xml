@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodTruck App</string>
+    <string name="txt_header">Elija una hamburguesa</string>
+    <string name="txt_header1">Elija una bebida</string>
+    <string name="txt_header2">Elija porcion de papas</string>
+    <string name="btn_pedido">Enviar Pedido</string>
+</resources>
